@@ -10,25 +10,25 @@
 }
 
 .head {
-    width: 1263px;
+    width: 1519px;
     height: 146px;
     overflow: hidden;
     background: #03A5F5;
 }
 
 .head img {
-    width: 1263px;
+    width: 1519px;
     height: 142px;
 }
 
 nav {
-    width: 1263px;
+    width: 1519px;
     height: 60px;
     /* background: #333; */
 }
 
 nav ul {
-    margin-left: 30px;
+    margin-left: 60px;
 }
 
 nav li {
@@ -71,6 +71,7 @@ li ul li {
     width: 300px;
     text-align: center;
     cursor: pointer;
+    
 }
 
 li ul li a {
@@ -84,14 +85,14 @@ li ul li a {
 
 #webhead {
     position: relative;
-    width: 100%;
+    width: 1519px;
     height: 450px;
     margin: 0px auto;
     overflow: hidden;
 }
 
 #img_box {
-    width: 1263px;
+    width: 1519px;
     height: 450px;
     /* border: 1px solid #999999; */
     position: absolute;
@@ -110,7 +111,7 @@ li ul li a {
 }
 
 #imgs img {
-    width: 1263px;
+    width: 1519px;
     height: 450px;
     float: left;
 }
@@ -317,7 +318,7 @@ li ul li a {
 }
 .xueshu{
     margin-top: -63px;
-    margin-left: 790px;
+    margin-left: 920px;
 }
 
 .right2 img{
